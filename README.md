@@ -8,6 +8,7 @@
 
 ```bash
 git clone https://github.com/masa-kogi/password_manager.git
+cd password_manager
 ./password_manager.sh
 ```
 ## 使い方のサマリー
